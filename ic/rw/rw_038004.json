@@ -1,0 +1,11 @@
+{
+  "id": "038003",
+  "title": "Free Beer",
+  "image": "https://raw.githubusercontent.com/ciaranbradley/mock/ic/rw/images/038004.jpg",
+  "description": "Beer as in free.",
+  "points": 5,
+  "claimCount": 10,
+  "createdAt": "2018-11-01T00:00:00Z",
+  "updatedAt": "2018-11-01T00:00:00Z",
+  "syncedAt": "2018-11-01T00:00:00Z"
+}

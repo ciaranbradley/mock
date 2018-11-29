@@ -1,0 +1,11 @@
+{
+  "id": "038003",
+  "title": "Free Chips",
+  "image": "https://raw.githubusercontent.com/ciaranbradley/mock/ic/rw/images/038003.jpg",
+  "description": "1 Free bag of chips with every 20 spent.",
+  "points": 2,
+  "claimCount": 15,
+  "createdAt": "2018-11-01T00:00:00Z",
+  "updatedAt": "2018-11-01T00:00:00Z",
+  "syncedAt": "2018-11-01T00:00:00Z"
+}

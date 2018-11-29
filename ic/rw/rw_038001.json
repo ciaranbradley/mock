@@ -1,0 +1,11 @@
+{
+  "id": "038001",
+  "title": "Free Coffee",
+  "image": "https://raw.githubusercontent.com/ciaranbradley/mock/ic/rw/images/038001.jpg",
+  "description": "1 Free coffee for every 10 bought.",
+  "points": 10,
+  "claimCount": 34,
+  "createdAt": "2018-11-01T00:00:00Z",
+  "updatedAt": "2018-11-01T00:00:00Z",
+  "syncedAt": "2018-11-01T00:00:00Z"
+}
