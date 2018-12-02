@@ -1,7 +1,7 @@
 {
   "id": "038001",
   "title": "Free Coffee",
-  "image": "https://raw.githubusercontent.com/ciaranbradley/mock/ic/rw/images/038001.jpg",
+  "image": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
   "description": "1 Free coffee for every 10 bought.",
   "points": 10,
   "claimCount": 34,

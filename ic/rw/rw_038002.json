@@ -1,7 +1,7 @@
 {
   "id": "038002",
   "title": "Free Cake",
-  "image": "https://raw.githubusercontent.com/ciaranbradley/mock/ic/rw/images/038002.jpg",
+  "image": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038002.jpg",
   "description": "1 Free cake for every 10 bought.",
   "points": 5,
   "claimCount": 10,

@@ -1,7 +1,7 @@
 {
   "id": "038003",
   "title": "Free Beer",
-  "image": "https://raw.githubusercontent.com/ciaranbradley/mock/ic/rw/images/038004.jpg",
+  "image": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038004.jpg",
   "description": "Beer as in free.",
   "points": 5,
   "claimCount": 10,
